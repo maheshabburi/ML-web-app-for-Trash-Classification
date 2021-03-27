@@ -1,0 +1,7 @@
+There is already a folder on drive with the name WebApp
+If not, do following
+
+Upload folders into drive
+Run this ipynb on Google Colab, you get a link there itself, bcoz of using ngrok.
+
+Trash Classification - Organic vs Recyclable
